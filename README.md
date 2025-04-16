@@ -57,6 +57,4 @@ An exploration of encryption techniques focused on creating a robust password ma
 
 - **LinkedIn:** [linkedin.com/in/raphtolentino](https://www.linkedin.com/in/raphtolentino)
 - **Email:** [tolraph00@gmail.com](mailto:tolraph00@gmail.com)
-
-I'm always excited to connect with tech enthusiasts, potential mentors, and organizations that value secure, innovative, and ethical technology solutions. Let’s collaborate and build something outstanding!
----
+-----
